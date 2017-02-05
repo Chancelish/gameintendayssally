@@ -52,7 +52,7 @@ class SplashScreen extends World {
         this.instruction = [];
         this.instruction[0] = "Controls";
         this.instruction[1] = "Arrows: Move";
-        this.instruction[2] = "Z or Space: Jump";
+        this.instruction[2] = "Z: Jump";
         this.instruction[3] = "X: Use Staff of Growth";
         this.instruction[4] = "Press Enter to Start";
         this.page = 1;
